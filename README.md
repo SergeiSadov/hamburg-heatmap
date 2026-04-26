@@ -4,7 +4,11 @@ This is an interactive heatmap of crime cases across Hamburg neighborhoods, gene
 
 Live map: https://sergeisadov.github.io/hamburg-heatmap
 
-Official criminal statistic report: https://www.polizei.hamburg/resource/blob/1153262/317efafe8864b9ad0f182577ba409c54/pks-stadtteilatlas2025-do-data.pdf
+Data source:
+Polizeiliche Kriminalstatistik – Stadtteilatlas 2025
+Freie und Hansestadt Hamburg (CC0)
+
+https://www.polizei.hamburg/resource/blob/1153262/317efafe8864b9ad0f182577ba409c54/pks-stadtteilatlas2025-do-data.pdf
 
 ---
 
