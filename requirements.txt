@@ -1,0 +1,6 @@
+geopandas
+pandas
+folium
+camelot-py[cv]
+numpy
+branca
